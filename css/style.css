@@ -35,4 +35,11 @@ img {
   
   li {
     margin: 16px 0;
+    font-family: 'Times New Roman' ;
+  }
+  blockquote {
+    font-style: italic;
+    max-width: 500px;
+    margin: 0 auto 60px auto;
+    text-align: left;
   }
