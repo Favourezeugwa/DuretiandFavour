@@ -1,6 +1,6 @@
 
 #main {
-    background-color: seashell;
+    background-color: rgb(243, 238, 235);
     margin: 30px 10px;
     padding: 15px;
     border radius: 5px;
@@ -8,10 +8,11 @@
 #title {
     font-size: 50px;
     text-align: center;
+    color: rebeccapurple;
 }
 #img-div {
     text-align: center;
-    font-size: 25px;
+    font-size: 20px;
 }
 img {
     display: block;
@@ -22,6 +23,7 @@ img {
   }
   #tribute-info {
       text-align: center;
+      background-color: aliceblue;
   }
   #Header {
       text-align: center;
@@ -35,11 +37,13 @@ img {
   
   li {
     margin: 16px 0;
-    font-family: 'Times New Roman' ;
+    font-family: 'Times New Roman';
+    font-size: 18px;
   }
   blockquote {
     font-style: italic;
     max-width: 500px;
     margin: 0 auto 60px auto;
     text-align: left;
+    font-size: 18px;
   }
