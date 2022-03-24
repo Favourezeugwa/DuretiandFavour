@@ -1,0 +1,38 @@
+
+#main {
+    background-color: seashell;
+    margin: 30px 10px;
+    padding: 15px;
+    border radius: 5px;
+}
+#title {
+    font-size: 50px;
+    text-align: center;
+}
+#img-div {
+    text-align: center;
+    font-size: 25px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    width: 400px
+  }
+  #tribute-info {
+      text-align: center;
+  }
+  #Header {
+      text-align: center;
+  }
+  ul {
+    max-width: 500px;
+    margin: 0 auto 40px auto;
+    text-align: left;
+    line-height: 1.4;
+  }
+  
+  li {
+    margin: 16px 0;
+  }
